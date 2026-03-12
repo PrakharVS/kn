@@ -1,0 +1,15 @@
+{
+  "name": "node-ci-demo",
+  "version": "1.0.0",
+  "description": "Node.js CI pipeline example",
+  "main": "app.js",
+  "scripts": {
+    "build": "echo Building project...",
+    "test": "echo Running tests...",
+    "start": "node app.js"
+  },
+  "author": "Prakhar",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
